@@ -1,0 +1,23 @@
+{
+  "name": "ts-compiler-docs",
+  "version": "1.0.0",
+  "description": "Unofficial docs for TS Compiler API",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "docusaurus-init": "^1.14.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/longlho/ts-compiler-docs.git"
+  },
+  "author": "Long Ho <holevietlong@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/longlho/ts-compiler-docs/issues"
+  },
+  "homepage": "https://github.com/longlho/ts-compiler-docs#readme"
+}
